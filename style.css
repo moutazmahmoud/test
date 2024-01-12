@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(21, 5, 40);
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+body .wrapper {
+  background: rgb(220, 191, 239);
+  border-radius: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  padding: 1rem;
+}
+body .wrapper .title {
+  font-weight: 600;
+}
+body .wrapper .companyName {
+  border-radius: 0.25rem;
+  outline: none;
+  border: none;
+  padding: 1rem;
+  margin-top: 1.5rem;
+}
+body .wrapper .generateBtn {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background-color: black;
+  color: aliceblue;
+  border: none;
+  border-radius: 0.25rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+body .wrapper #result {
+  font-size: 1rem;
+  margin-top: 3rem;
+}
+
+/*# sourceMappingURL=style.css.map */
