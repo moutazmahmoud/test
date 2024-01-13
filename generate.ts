@@ -45,3 +45,5 @@ companyNameEl?.addEventListener('input', function (event) {
     const target = event.target as HTMLInputElement;
     companyName = target.value;
 });
+
+// I want to work at Mainware because I seek to develop and grow in a wonderful and attractive environment to work and learn through dealing and cooperating with your team, in addition to participating in providing distinguished technical services, solutions and products around the world. In fact, 4 years ago I changed my profession from accountant to front-end developer. I also I am on my way to obtaining an intensive scholarship certificate as a software engineer, and I truly dream and aspire to become a distinguished software engineer, and I would like to have this experience with a distinguished company like you.
